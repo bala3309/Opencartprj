@@ -1,0 +1,6 @@
+Data driven testing steps
+
+1.Add excel data under test data folder
+2.Add excel utility class and DataProviders class under utility package
+3.Add data provider to test method in test case data provider name and class mention
+4.Add Tc in test cases package then add proper validations for positive and negative cases
