@@ -1,12 +1,16 @@
 package testbase;
 
-import java.io.FileNotFoundException;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -19,13 +23,13 @@ import org.apache.logging.log4j.Logger;  //Log4j
 
 public class BaseClass {
 	
-	 public WebDriver driver;
+	 public static WebDriver driver;
 	 public Logger logger; // to get log files
 	 public Properties p;
 	 
-		@BeforeClass
-		@Parameters({"os","browser"})
-		public void Setup(String os, String br) throws IOException  {
+		@BeforeClass(groups = {"Sanity","Master","Regression"})
+		@Parameters({"browser","os"})
+		public void Setup(String br, String os) throws IOException  {
 			
 			//loading config.properties file
 			
@@ -34,6 +38,8 @@ public class BaseClass {
 			p.load(file);
 			
 			logger = LogManager.getLogger(this.getClass());
+			
+			
 			
 			switch(br.toLowerCase()){
 			
@@ -50,7 +56,7 @@ public class BaseClass {
 			driver.manage().window().maximize();		
 
 		}
-		@AfterClass
+		@AfterClass(groups = {"Sanity","Master","Regression"})
 		public void teardown() {
 			driver.quit();
 
@@ -79,6 +85,23 @@ public class BaseClass {
 			String generatedString = RandomStringUtils.randomAlphabetic(5);
 			String generatedNumber = RandomStringUtils.randomNumeric(10);
 			return generatedString +"&"+ generatedNumber;	
+
+		}
+		
+		// to capture the failed test screen whenever onTestfail() triggered in ExtendReport manager utility file 
+		public String captureScreen(String tname) throws IOException {
+
+			String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+					
+			TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+			File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
+			
+			String targetFilePath=System.getProperty("user.dir")+"\\screenshots\\" + tname + "_" + timeStamp + ".png";
+			File targetFile=new File(targetFilePath);
+			
+			sourceFile.renameTo(targetFile);
+				
+			return targetFilePath;
 
 		}
 

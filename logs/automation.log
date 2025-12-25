@@ -1,49 +1,11 @@
-2025-12-20 10:16:54 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Murali\eclipse-workspace\Opencartprj\mastertestng.xml
+2025-12-25 22:04:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
 
-2025-12-20 10:16:58 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
-2025-12-20 10:17:00 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
-2025-12-20 11:21:42 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Murali\eclipse-workspace\Opencartprj\mastertestng.xml
-
-2025-12-20 11:21:46 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:21:50 INFO  TC_003_LoginDDT:68 - ****TC_03 Login DDT Finished*********
-2025-12-20 11:21:50 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:21:52 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:21:53 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:22:08 INFO  TC_003_LoginDDT:68 - ****TC_03 Login DDT Finished*********
-2025-12-20 11:22:08 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:23:46 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Murali\eclipse-workspace\Opencartprj\mastertestng.xml
-
-2025-12-20 11:23:48 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:23:55 INFO  TC_003_LoginDDT:68 - ****TC_03 Login DDT Finished*********
-2025-12-20 11:23:55 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:23:57 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:23:58 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:24:14 INFO  TC_003_LoginDDT:68 - ****TC_03 Login DDT Finished*********
-2025-12-20 11:24:14 INFO  TC_003_LoginDDT:17 - ****TC_03 Login DDT started*********
-2025-12-20 11:52:45 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
-2025-12-20 11:52:45 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
-2025-12-20 11:52:45 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
-2025-12-20 11:52:45 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
-2025-12-20 11:52:46 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
-2025-12-20 11:52:47 INFO  TC_001_UserAccountRegistration:71 - **TC_001 UserAccountRegistration Finished**
-2025-12-20 11:52:48 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
-2025-12-20 11:52:50 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
-2025-12-20 12:09:40 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
-2025-12-20 12:09:41 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
-2025-12-20 12:09:41 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
-2025-12-20 12:09:41 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
-2025-12-20 12:09:42 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
-2025-12-20 12:09:42 INFO  TC_001_UserAccountRegistration:71 - **TC_001 UserAccountRegistration Finished**
-2025-12-20 12:09:44 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
-2025-12-20 12:09:45 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
-2025-12-20 12:16:49 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
-2025-12-20 12:16:49 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
-2025-12-20 12:16:50 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
-2025-12-20 12:16:50 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
-2025-12-20 12:16:51 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
-2025-12-20 12:16:51 INFO  TC_001_UserAccountRegistration:71 - **TC_001 UserAccountRegistration Finished**
-2025-12-20 12:16:53 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
-2025-12-20 12:16:54 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
+2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
+2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
+2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
+2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
+2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
+2025-12-25 22:04:31 INFO  TC_001_UserAccountRegistration:69 - **TC_001 UserAccountRegistration Finished**
+2025-12-25 22:04:33 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
+2025-12-25 22:04:34 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
