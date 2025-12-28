@@ -1,11 +1,149 @@
-2025-12-25 22:04:25 INFO  Utils:112 - [TestNG] Running:
+2025-12-28 18:18:50 INFO  Utils:112 - [TestNG] Running:
   C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
 
-2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
-2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
-2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
-2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
-2025-12-25 22:04:30 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
-2025-12-25 22:04:31 INFO  TC_001_UserAccountRegistration:69 - **TC_001 UserAccountRegistration Finished**
-2025-12-25 22:04:33 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
-2025-12-25 22:04:34 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
+2025-12-28 19:20:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:21:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:23:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:28:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:29:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:54:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:55:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 19:57:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:01:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:03:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:05:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:16:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:25:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:28:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:31:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:32:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:37:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:37:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:48:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:49:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:51:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:53:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:54:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 20:59:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:03:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:06:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:07:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:09:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:09:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:09:57 INFO  TC_001_UserAccountRegistration:17 - **Starting TC_001_UserAccountRegistration**
+2025-12-28 21:09:57 INFO  TC_001_UserAccountRegistration:22 - **Clicked My account Link**
+2025-12-28 21:09:58 INFO  TC_001_UserAccountRegistration:25 - **Clicked Register Link**
+2025-12-28 21:09:58 INFO  TC_001_UserAccountRegistration:29 - **Entering Customer details**
+2025-12-28 21:10:00 INFO  TC_001_UserAccountRegistration:43 - ** validating expected message**
+2025-12-28 21:10:00 INFO  TC_001_UserAccountRegistration:69 - **TC_001 UserAccountRegistration Finished**
+2025-12-28 21:10:02 INFO  TC_002_LoginTest:18 - ******TC_002_LoginTest Started******
+2025-12-28 21:10:08 INFO  TC_002_LoginTest:42 - ******TC_002_Login Test finished
+2025-12-28 21:41:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:43:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:44:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:44:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 21:46:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:02:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:05:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:06:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:09:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:10:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:12:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:14:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:14:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:18:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:20:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:23:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
+2025-12-28 22:23:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Murali\eclipse-workspace\Opencartprj\master.xml
+
