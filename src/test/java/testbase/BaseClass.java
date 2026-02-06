@@ -56,6 +56,7 @@ public class BaseClass {
 			driver.manage().window().maximize();		
 
 		}
+		
 		@AfterClass(groups = {"Sanity","Master","Regression"})
 		public void teardown() {
 			driver.quit();
